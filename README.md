@@ -16,4 +16,6 @@
 </div><br/>
 Cursando faculdade de tecnologia, desenvolvendo na área de FRONT END, com um grande sonho de me tornar um desenvolvedor Full Stack
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raujerhianzzi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
  
