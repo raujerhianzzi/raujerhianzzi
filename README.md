@@ -4,8 +4,7 @@
 [![Outlook](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rauje22@outlook.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5587998104132)
 
-![Rauje Rhianzzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=raujerhianzzi&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raujerhianzzi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Rauje Rhianzzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=raujerhianzzi&show_icons=true&theme=dracula)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raujerhianzzi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que estou usando no meu dia dia!
 
