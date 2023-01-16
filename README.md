@@ -30,7 +30,7 @@ Cursando faculdade de tecnologia, desenvolvendo na área de FRONT END, com um gr
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{raujerhianzzi}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0CF27C&height=120&section=footer"/>
 
 
  
